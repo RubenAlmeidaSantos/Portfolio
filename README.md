@@ -1,4 +1,4 @@
-<h1>🗃️THIS REPOSITORY IS WHERE I SAVE SOME OF MY MILESTONE PROJECTS, I HOPE YOU ENJOY THEM AS MUCH AS I ENJOYED MAKING THEM🖥️</h1>
+<h1>🗃️This repository is where I saved some of my milestone projects, I hope you enjoy them as much as I enjoyed making them🖥️</h1>
 <h2>Content description:</h2>
 <h2><p>File name: gamejam.7z</p>
 <p>Key features; Java implementation, grid layout, dynamic messages, and winning condition </p></h2>
