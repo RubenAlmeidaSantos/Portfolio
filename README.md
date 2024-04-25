@@ -2,7 +2,7 @@
 <h2>Content description:</h2>
 <h2><p>File name: gamejam.7z</p>
 <p>Key features; Java implementation, grid layout, dynamic messages, and winning condition </p></h2>
-<h4>-A Drinking Boardgame written in Java, that can be played by up to 4 players, where your main objective is to land precisely on the starting tile after going around the board, the first player to do so wins, and every tile on the board has either a challenge, reward or penalty depending on where each player landed.</h4>
+<h4>-A Drinking Boardgame written in Java in 10 days for a Gamejam, it can be played by up to 4 players, where the main objective is to land precisely on the starting tile after going around the board, the first player to do so wins, and every tile on the board has either a challenge, reward or penalty depending on where each player landed.</h4>
 <p></p>
 <p></p>
 <h2><p>File name: spa.zip</p>
