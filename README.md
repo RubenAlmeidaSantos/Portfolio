@@ -8,3 +8,6 @@
 <h2><p>File name: spa.zip</p>
 -A Single Page Application written in JavaScript and made in 24 hours using web-API's and mini-scrum management framework</h2>
 <h4>-This app was made to deliver a diagnosis after symptoms of an ailment have been inserted in the text box, multiple symptoms can be inserted to get a more precise diagnosis.</h4>
+<p></p>
+<p></p>
+<h2><p>File name</p></h2>
